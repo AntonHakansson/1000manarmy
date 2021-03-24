@@ -1,0 +1,10 @@
+[Programming]
+InControl - https://github.com/pbhogan/InControl
+InAudio - 
+
+[Models]
+Sword with dark handle - https://poly.google.com/view/5WXs3CrWh9M
+Low Poly Weapons - https://jaks.itch.io/lowpolymeleeweapon/download/eyJleHBpcmVzIjoxNTIyOTczMzk2LCJpZCI6MTQyNDIwfQ%3d%3d%2e3dFLnDWr%2bkj2Hi4xGLOQzG3hKs4%3d
+
+[Sounds]
+Grass Footstep - https://freesound.org/people/OwlStorm/    http://nataliekirk.com/
